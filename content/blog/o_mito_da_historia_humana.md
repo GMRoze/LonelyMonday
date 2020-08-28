@@ -1,6 +1,6 @@
 ---
 title: "O Mito da História Humana"
-date: 2020-08-27
+date: 2020-08-26
 draft: false
 image: "images/o_mito_da_historia_humana.png"
 description: "um dialogo entre guntars gedulis e edgars andersons"
@@ -8,7 +8,6 @@ categories:
   - "Canticos do Além-Mar"
 tags:
   - "Dialogo"
-  - "História"
 type: "post"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "O Exílio (Cap. 1 Rascunho)"
-date: 2020-08-28
+date: 2020-08-27
 draft: false
 image: "images/argentina.jpg"
 description: "um dialogo entre guntars gedulis e edgars andersons"
