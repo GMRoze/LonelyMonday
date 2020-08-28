@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Lonely Monday</title>
+    <link>https://andreispurim.github.io/lonely_monday/categories/</link>
+    <description>Recent content in Categories on Lonely Monday</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://andreispurim.github.io/lonely_monday/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O Exílio</title>
+      <link>https://andreispurim.github.io/lonely_monday/categories/o-ex%C3%ADlio/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreispurim.github.io/lonely_monday/categories/o-ex%C3%ADlio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canticos do Além-Mar</title>
+      <link>https://andreispurim.github.io/lonely_monday/categories/canticos-do-al%C3%A9m-mar/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreispurim.github.io/lonely_monday/categories/canticos-do-al%C3%A9m-mar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
