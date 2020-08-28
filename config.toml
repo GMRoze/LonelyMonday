@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "https://andreispurim.github.io/lonely_monday/"
 languageCode = "en-us"
-title = "Lonely Monday"
-summaryLength = "10"
+title = "Rascunhos do Andreis"
+summaryLength = "20"
 paginate = 50
 disqusShortname = ""
 publishDir = "docs"

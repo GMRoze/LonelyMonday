@@ -1,5 +1,5 @@
 ---
-title: "O Exílio (Cap. 1 Rascunho)"
+title: "Cap 1: O Exílio"
 date: 2020-08-27
 draft: false
 image: "images/argentina.jpg"
@@ -21,7 +21,8 @@ A história se passaria anos depois, em 1949. Ela giraria em torno de ex-veteran
 Haveria temas também sob a violência da natureza humana, quando Jahn e Garais se encontram com os Gaúchos e Pampeanos que perderam suas famílias e casas durante a Patagônia Rebelde. O desfecho da história seria uma discussão sobre como justiça deve prevalecer.
 
 
-## Cap. 1: O Exílio
+## Capitulo 1
+#### O Exílio
 
 O posto de gasolina do Sr. Contrera era apenas mais um dos poucos lugares onde se era possível encontrar combustível na longa Ruta 40. Nos seus mais de 5 mil quilômetros de extensão essa estrada fina se esgueirava entre lagos e montanhas conectando o extremo sul da Argentina até a Bolívia. As duas faixas estreitas de asfalto cortavam em dois uma campina rasa que se estendia até onde o olho podia ver, e no horizonte, grandes montanhas marcavam a fronteira do país.O pequenino posto do Sr. Contrera - apenas uma lojinha de vendas e um escritório - com suas três bombas de petróleo, pareciam apenas pontos nesta imensidão.
 
