@@ -5,6 +5,7 @@ title = "Lonely Monday"
 summaryLength = "10"
 paginate = 50
 disqusShortname = ""
+publishDir = "docs"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
