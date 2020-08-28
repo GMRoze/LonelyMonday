@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://andreispurim.github.io/lonely_monday/"
 languageCode = "en-us"
 title = "Lonely Monday"
 summaryLength = "10"
