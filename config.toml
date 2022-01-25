@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://lonelymonday.github.io"
+baseURL = "https://lonelymonday.github.io/"
 languageCode = "en-us"
-title = "Rascunhos do Andreis"
+title = "Lonely Monday"
 summaryLength = "20"
 paginate = 50
 disqusShortname = ""
@@ -44,10 +44,10 @@ publishDir = "docs"
 [params]
 logo = "images/logo.png"
 home = "Home"
-description = "Aqui onde o Andreis Escreve Coisas"
+description = "Lonely Monday"
 author = "Andreis Purim"
 googleAnalitycsID = "Your ID"
-copyright = "Feito pelo [Andreis](https://andreispurim.github.io/) baseado em [Themefisher](https://themefisher.com)"
+copyright = "Made with Hugo and [Themefisher](https://themefisher.com)"
 
   # Preloader
   [params.preloader]
