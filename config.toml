@@ -7,6 +7,7 @@ paginate = 50
 disqusShortname = ""
 publishDir = "docs"
 
+# Test flow
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
